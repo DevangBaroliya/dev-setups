@@ -6,3 +6,4 @@ Reusable setup notes and Docker Compose files for local development tools.
 - [Mailpit](./mailpit/README.md)
 - [PostgreSQL + pgAdmin](./postgres/README.md)
 - [Redis](./redis/README.md)
+- [RabbitMQ](./rabbitmq/README.md)
