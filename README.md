@@ -7,3 +7,4 @@ Reusable setup notes and Docker Compose files for local development tools.
 - [PostgreSQL + pgAdmin](./postgres/README.md)
 - [Redis](./redis/README.md)
 - [RabbitMQ](./rabbitmq/README.md)
+- [MongoDB](./mongodb/README.md)
